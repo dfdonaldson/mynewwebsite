@@ -1,5 +1,7 @@
 Here is my index page
 
-## header 2
+## Links
+
+[About page]
 
 there will be more content soon...
