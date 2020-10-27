@@ -1,3 +1,5 @@
+{% include menu.md %}
+
 # About
 
 here is my name
